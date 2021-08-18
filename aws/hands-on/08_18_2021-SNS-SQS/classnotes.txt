@@ -1,0 +1,4 @@
+https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-delay-queues.html
+
+
+https://aws.amazon.com/tr/sqs/
